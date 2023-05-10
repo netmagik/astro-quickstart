@@ -133,3 +133,12 @@ footer {
 footer img {
   width: 20px;
 }
+
+.transform {
+  margin: 2rem 0;
+  font-size: 2rem;
+}
+
+a {
+  color: #04887d;
+}
